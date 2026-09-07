@@ -57,7 +57,7 @@ Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.  
 [[Paper](https://arxiv.org/abs/2306.14870)] [[Code](https://github.com/hkust-nlp/PEM_composition)]
 
-A full list of publications is available on the [Publications](/LJT-Homepage/publications/) page.
+A full list of publications is available on the [Publications]({{ base_path }}/publications/) page.
 
 Honors and Awards
 ======
